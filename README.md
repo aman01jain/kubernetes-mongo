@@ -45,6 +45,3 @@ Copy code
 Automating backups using Kubernetes CronJobs.
 Implementing MongoDB Sharding for handling large datasets.
 Integrating Helm Charts for streamlined deployment.
-
-📝 License
-This project is open-source and available under the MIT License.
